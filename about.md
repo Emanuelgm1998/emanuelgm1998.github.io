@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 permalink: /about/
 ---
 
-Some information about you!
+👋 Hola, soy **Emanuel Gonzalez**, Arquitecto de Soluciones Cloud & SysOps profesional, certificado en AWS, experto en DevSecOps y Automatización con IA.
 
-### More Information
+🎯 Mi enfoque está en Zero Trust, observabilidad, automatización AIOps y arquitecturas modernas seguras.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+📫 Contáctame en [LinkedIn](https://www.linkedin.com/in/emanuelgm1998) o revisa mis [proyectos en GitHub](https://github.com/Emanuelgm1998).
